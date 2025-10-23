@@ -9,7 +9,7 @@ const Navbar = () => {
     const [theme, setTheme] = useState('light');
 
     useEffect(() => {
-        const savedTheme = localStorage.getItem('theme') || 'light';
+        const savedTheme = localStorage.getItem('theme') || 'dark';
         setTheme(savedTheme);
         document.documentElement.setAttribute('data-theme', savedTheme);
     }, []);
@@ -46,6 +46,7 @@ const Navbar = () => {
                             </ul>
                         </div>
 
+                        <img src="vite.svg" alt="logo" />
                         <p to='/' className="text-3xl font-bold ml-2 md:block"> <span className='text-pink-500'>Next</span> Bento</p>
                     </div>
                     <div className="navbar-center hidden lg:flex">
@@ -65,6 +66,10 @@ const Navbar = () => {
                                 <CgDarkMode size={25} />
                                 <input type="checkbox" className="toggle theme-controller" onChange={toggleTheme} checked={theme === 'dark'} />
                             </label>
+                        </div>
+
+                        <div>
+                            <button className='btn rounded-full bg-primary' >Join</button>
                         </div>
 
 

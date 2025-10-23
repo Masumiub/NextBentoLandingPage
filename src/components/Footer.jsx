@@ -17,11 +17,11 @@ const Footer = () => {
 
                 <nav>
                     <div className='flex items-center'>
-                    
-                    <p className="text-3xl font-bold"> <span className='text-pink-500'>Next</span> Bento</p>
+                    <img src="vite.svg" alt="logo" />
+                    <p className="text-3xl font-bold ml-2"> <span className='text-pink-500'>Next</span> Bento</p>
                     </div>
 
-                    <p className='my-3'>Dive into the rich history, vibrant traditions, and breathtaking nature of Bangladesh. <br /> With nextBento, every journey is more than just a trip—it’s a cultural adventure.</p>
+                    <p className='my-3'>Sign up for a free account and you'll have immediate access to our AI prompt library. <br /> Start creating content right away with our pre-built templates.</p>
                    
                     <div className='flex items-center gap-2'>
                     <div className='p-3 bg-blue-100 rounded-lg'><IoIosCall className='text-black'/> </div>

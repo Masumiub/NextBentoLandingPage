@@ -1,6 +1,7 @@
 import React from 'react';
 import { Sparkles } from 'lucide-react';
 import { Star } from 'lucide-react';
+import { FaStar } from "react-icons/fa";
 
 export default function PromptCompanionCard() {
   return (
@@ -19,7 +20,7 @@ export default function PromptCompanionCard() {
 
         <div className="flex items-center gap-2 transition-transform duration-300 hover:scale-110">
           <Sparkles className="w-4 h-4 text-yellow-300" />
-          <span className=" font-bold text-white tracking-wide">PromptPal</span>
+          <span className=" font-bold text-white tracking-wide">NextBento</span>
         </div>
       </div>
 
@@ -34,11 +35,11 @@ export default function PromptCompanionCard() {
 
 
       <div className='flex gap-2 justify-center'>
-        <Star className='text-yellow-300' />
-        <Star className='text-yellow-300' />
-        <Star className='text-yellow-300' />
-        <Star className='text-yellow-300' />
-        <Star className='text-yellow-300' />
+        <FaStar className='text-yellow-300' />
+        <FaStar className='text-yellow-300' />
+        <FaStar className='text-yellow-300' />
+        <FaStar className='text-yellow-300' />
+        <FaStar className='text-yellow-300' />
       </div>
 
       <div>
