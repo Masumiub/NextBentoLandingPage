@@ -20,10 +20,10 @@ https://next-bento.netlify.app/
 # Full Page Design
 
 # Tablet View
-<img width="1684" height="20964" alt="Image" src="https://github.com/user-attachments/assets/c330a780-d161-47a6-a944-f5f0e9b40c9c" />
+<img width='full' alt="Image" src="https://github.com/user-attachments/assets/c330a780-d161-47a6-a944-f5f0e9b40c9c" />
 
 # Mobile View
-<img width="1088" height="27158" alt="Image" src="https://github.com/user-attachments/assets/26a66524-7a54-43b5-88d5-50fe280ff112" />
+<img   width='full' alt="Image" src="https://github.com/user-attachments/assets/26a66524-7a54-43b5-88d5-50fe280ff112" />
 
 
 # React + Vite
