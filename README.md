@@ -1,3 +1,31 @@
+# Next Bento
+- Md Masum Musfique
+- musfiquemasum@gmail.com
+- Level1 - B11, Level2 - B6
+- Cubites Design 
+
+# Live Link:
+https://next-bento.netlify.app/
+
+# Top Features:
+- Modern UI design with Bento Grid
+- Light and Dark Mood
+- Fully Responsive for mobile and tablet view
+- Additional Sections
+- Clean and minimal design
+
+# Main Bento Grid
+<img width="2099" height="1591" alt="Image" src="https://github.com/user-attachments/assets/28cb7444-c189-4dd2-9a76-a8d3f5805169" />
+
+# Full Page Design
+
+# Tablet View
+<img width="1684" height="20964" alt="Image" src="https://github.com/user-attachments/assets/c330a780-d161-47a6-a944-f5f0e9b40c9c" />
+
+# Mobile View
+<img width="1088" height="27158" alt="Image" src="https://github.com/user-attachments/assets/26a66524-7a54-43b5-88d5-50fe280ff112" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
